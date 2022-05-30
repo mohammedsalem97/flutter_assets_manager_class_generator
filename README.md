@@ -39,10 +39,14 @@
 
 ### 📷Screenshots
 
-- <p align="center">
+**images to map**
+<p align="center">
   <img align="center"  src="https://github.com/mohammedsalem97/flutter_assets_manager_class_generator/blob/master/assets.png">
 </p>
-- <p align="center">
+
+  :**output**:
+  <p align="center">
+  
   <img align="center"  src="https://github.com/mohammedsalem97/flutter_assets_manager_class_generator/blob/master/output.png">
 </p>
 
