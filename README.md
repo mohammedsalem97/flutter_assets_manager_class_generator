@@ -9,17 +9,17 @@
 
 <p><br></p>
 
-### Project Goals
+### ⚽Project Goals
 
 - To help Flutter developpers kick start in thier large projects by creating the `AppAssets` class containing the image assets as `static const String` membes.
 
 
 <p><br></p>
 
-### How to use
+### 🔧How to use
 
 1. Download the script file `image_class_gen_script.sh` to your device.
-2. Go to  download directory then Run the script using *git bash* or *bash* terminal using this command: 
+2. Go to  download directory then Run the script using **git bash** or **bash** terminal using this command:  
  ` 
   bash image_class_gen_script.sh
   ` .
@@ -31,7 +31,7 @@
 
 ### ⚠Cavities 
 
-- ⚠ Image file named cannot contain spaces.
+- ⚠ Image file names cannot contain spaces.
 - ⚠ Input path must contain only forward slashes `/`, Back slashes `\` are not allowed.
 
 
